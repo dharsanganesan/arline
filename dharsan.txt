@@ -1,5 +1,0 @@
-   terminate values with NUL byte
-    --[no-]name-only      show variable names only
-    --[no-]includes       respect include directives on lookup
-    --[no-]show-origin    show origin of config (file, standard input, blob, command line)
-    --[no-]show-scope     show scope of config (worktree, local, global, system, command)
